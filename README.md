@@ -7,9 +7,9 @@ Welcome to the CropSync Web Development Internship! This repository will serve a
 **End Date:** August 14, 2024
 
 ## Interns
-- **Intern 1:** [Gowtham Koruprolu]
-- **Intern 2:** [Nagireddy Dhakshayani]
-- **Intern 3:** [Kammari Chandra Sekhar]
+- **Intern 1:** Gowtham Koruprolu
+- **Intern 2:** Nagireddy Dhakshayani
+- **Intern 3:** Kammari Chandra Sekhar
 
 ## Project Overview
 You will be collaboratively working on the following tasks:

@@ -1,4 +1,4 @@
-# CropSync Web Development Internship
+# CropSync Web Development Project
 
 Welcome to the CropSync Web Development Internship! This repository will serve as the central hub for all tasks, updates, and collaboration related to your projects. Below you will find the structure and guidelines for the internship.
 
